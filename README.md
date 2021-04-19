@@ -1,2 +1,1 @@
-# React-Portfolio-Lab-Part-3
-Setting State
+# React-Portfolio-Lab-Part-2
